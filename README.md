@@ -1,4 +1,4 @@
-VM-NETin Tensorflow
+VM-NET in Tensorflow
 ====
 
 Tensorflow implementation of [SSPP-DAN: Deep Domain Adaptation Network for Face Recognition with Single Sample Per Person](https://arxiv.org/abs/1704.06761)
