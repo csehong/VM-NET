@@ -15,8 +15,14 @@ Prerequisites
 
 Usage
 -------------
-
+![Alt text](./figure/video_sample.JPG)
 First, download video dataset from "data/YoutubeID.txt." Then, extract audio features and video features from the videos. 
+
+
+Network structure
+-------------
+![Alt text](./figure/framework.JPG)
+
 
 To train a model with downloaded dataset:
 ```
@@ -27,3 +33,8 @@ To test with an existing model:
 ```
 $ python test.py
 ```
+
+Results
+-------------
+![Alt text](./figure/retrieval_result.JPG)
+
