@@ -7,7 +7,7 @@ Tensorflow implementation of [SSPP-DAN: Deep Domain Adaptation Network for Face 
 
 Demo
 -------------
-[![Alt text| width=500)](./figure/demo.JPG](https://www.youtube.com/watch?v=ZyINqDMo3Fg)
+[![Alt text| width=500](./figure/demo.JPG](https://www.youtube.com/watch?v=ZyINqDMo3Fg))
 
 
 Prerequisites
